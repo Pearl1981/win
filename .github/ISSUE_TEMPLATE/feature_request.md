@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: Feature Issue
+labels: enhancement, help wanted, question
+assignees: sharonstout1981
 
 ---
 
