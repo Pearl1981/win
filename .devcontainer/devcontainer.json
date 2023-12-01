@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
+              - name: Nancy for GitHub Actions
+                uses: sonatype-nexus-community/nancy-github-action@v1.0.2
+            
