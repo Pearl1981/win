@@ -13,7 +13,7 @@ on:
 
 jobs:
   configs-validation:
-    runs-on: ubuntu-latest 22.04
+    runs-on: ubuntu-latest 20.04
     env:
       DATREE_TOKEN: ${{ secrets.DATREE_TOKEN }}
     steps:
